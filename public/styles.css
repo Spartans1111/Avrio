@@ -647,11 +647,6 @@ video {
   margin-bottom: 50px;
 }
 
-.my-\[\] {
-  margin-top: ;
-  margin-bottom: ;
-}
-
 .mb-10 {
   margin-bottom: 2.5rem;
 }
@@ -681,7 +676,7 @@ video {
 }
 
 .mt-\[\] {
-  margin-top: ;
+  margin-top: 50px;
 }
 
 .mt-\[900px\] {
@@ -742,10 +737,6 @@ video {
 
 .h-\[99px\] {
   height: 99px;
-}
-
-.h-\[\] {
-  height: ;
 }
 
 .h-\[900px\] {
