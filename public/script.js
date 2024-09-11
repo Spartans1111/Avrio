@@ -46,4 +46,6 @@ document.addEventListener("DOMContentLoaded", () => {
 
     // Initialize button states
     updateButtons();
+
+
 });
